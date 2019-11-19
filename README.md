@@ -22,3 +22,10 @@ so that I have quick access to emails and GitHub profiles
 - node
 - npm packages
 
+##Useage
+
+- [screenshot of of localhost](images/1)
+- [screenshot of notes in note taker](images/2)
+
+If you would like to see my github repo here!
+https://github.com/wsams11/note-taker
